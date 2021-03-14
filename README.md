@@ -6,3 +6,15 @@ Two data sets were analyzed using five unsupervised learning methods. The first 
 The data are too large to upload. They can be found here:
 1. [MoCap Hand Postures Data Set](http://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures)
 2. [HTRU2 Data Set](http://archive.ics.uci.edu/ml/datasets/HTRU2)
+
+In order to run the code, the data sets shall be downloaded and placed in a directory named 'dataset'.
+## Python Modules
+The main modules used on this project are:
+ * Sklearn
+ * Matplotlib
+ * Skfuzzy
+ * Numpy
+ * Pandas
+ * Scipy
+ * Yellowbrick
+ * torch
