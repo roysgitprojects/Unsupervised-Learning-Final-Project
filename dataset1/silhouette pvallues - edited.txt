@@ -1,0 +1,55 @@
+
+3
+K means is significantly better than Hierarchicalaverage with p-value =$ 2.3263402225392805e-09  <<0.05$
+K means is significantly better than Hierarchicalcomplete with p-value =$ 2.3263402225392805e-09  <<0.05$
+K means is significantly better than Hierarchicalsingle with p-value =$ 2.3263402225392805e-09  <<0.05$
+
+5
+GMM is significantly better than K means with p-value =$ 2.3263402225392805e-09  <<0.05$
+GMM is significantly better than Hierarchicalward with p-value =$ 2.341341179371028e-10  <<0.05$
+GMM is significantly better than Hierarchicalaverage with p-value =$ 2.341341179371028e-10  <<0.05$
+GMM is significantly better than Hierarchicalcomplete with p-value =$ 2.341341179371028e-10  <<0.05$
+GMM is significantly better than Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+
+6
+Fuzzy C Means is significantly better than K means with p-value =$ 2.3263402225392805e-09  <<0.05$
+Fuzzy C Means is significantly better than GMM with p-value =$ 2.341341179371028e-10  <<0.05$
+Fuzzy C Means is significantly better than Hierarchicalward with p-value =$ 2.341341179371028e-10  <<0.05$
+Fuzzy C Means is significantly better than Hierarchicalaverage with p-value =$ 2.341341179371028e-10  <<0.05$
+Fuzzy C Means is significantly better than Hierarchicalcomplete with p-value =$ 2.341341179371028e-10  <<0.05$
+Fuzzy C Means is significantly better than Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+
+7
+Spectral is significantly better than K means with p-value =$ 2.3263402225392805e-09  <<0.05$
+Spectral is significantly better than GMM with p-value =$ 2.341341179371028e-10  <<0.05$
+Spectral is significantly better than Fuzzy C Means with p-value =$ 2.341341179371028e-10  <<0.05$
+Spectral is significantly better than Hierarchicalward with p-value =$ 2.341341179371028e-10  <<0.05$
+Spectral is significantly better than Hierarchicalaverage with p-value =$ 2.341341179371028e-10  <<0.05$
+Spectral is significantly better than Hierarchicalcomplete with p-value =$ 2.341341179371028e-10  <<0.05$
+Spectral is significantly better than Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+
+4
+Hierarchicalward is significantly better than K means with p-value =$ 2.3263402225392805e-09  <<0.05$
+Hierarchicalward is significantly better than Hierarchicalaverage with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalward is significantly better than Hierarchicalcomplete with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalward is significantly better than Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+
+2
+Hierarchicalaverage is significantly better than Hierarchicalcomplete with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalaverage is significantly better than Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+
+1
+Hierarchicalcomplete is significantly better than Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+
+0
+Hierarchicalsingle
+
+ranks:
+1. spectral
+2. FCM
+3. GMM
+4. Ward
+5. K means
+6. Average
+7. Complete
+8. single

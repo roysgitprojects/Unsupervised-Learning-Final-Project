@@ -1,0 +1,66 @@
+u test
+K means is significantly better than  GMM with p-value =$ 0.9994560423184106  <<0.05$
+K means is significantly better than  Fuzzy C Means with p-value =$ 2.8841455358863236e-08  <<0.05$
+K means is significantly better than  Spectral with p-value =$ 0.9999999952913105  <<0.05$
+K means is significantly better than  Hierarchicalward with p-value =$ 0.9999999966663978  <<0.05$
+K means is significantly better than  Hierarchicalaverage with p-value =$ 0.9999999966663978  <<0.05$
+K means is significantly better than  Hierarchicalcomplete with p-value =$ 0.9999999966663978  <<0.05$
+K means is significantly better than  Hierarchicalsingle with p-value =$ 3.959436327474976e-09  <<0.05$
+GMM is significantly better than  K means with p-value =$ 0.0005984133189373557  <<0.05$
+GMM is significantly better than  Fuzzy C Means with p-value =$ 0.0005660220204767951  <<0.05$
+GMM is significantly better than  Spectral with p-value =$ 0.9999999955770008  <<0.05$
+GMM is significantly better than  Hierarchicalward with p-value =$ 0.0002672665328237299  <<0.05$
+GMM is significantly better than  Hierarchicalaverage with p-value =$ 0.9999999968766236  <<0.05$
+GMM is significantly better than  Hierarchicalcomplete with p-value =$ 0.0002672665328237299  <<0.05$
+GMM is significantly better than  Hierarchicalsingle with p-value =$ 3.712086457939901e-09  <<0.05$
+Fuzzy C Means is significantly better than  K means with p-value =$ 0.9999999752415176  <<0.05$
+Fuzzy C Means is significantly better than  GMM with p-value =$ 0.9994859346328802  <<0.05$
+Fuzzy C Means is significantly better than  Spectral with p-value =$ 0.9999999960885889  <<0.05$
+Fuzzy C Means is significantly better than  Hierarchicalward with p-value =$ 0.999999997251751  <<0.05$
+Fuzzy C Means is significantly better than  Hierarchicalaverage with p-value =$ 0.999999997251751  <<0.05$
+Fuzzy C Means is significantly better than  Hierarchicalcomplete with p-value =$ 0.999999997251751  <<0.05$
+Fuzzy C Means is significantly better than  Hierarchicalsingle with p-value =$ 3.2703062074249834e-09  <<0.05$
+Spectral is significantly better than  K means with p-value =$ 5.573994164296426e-09  <<0.05$
+Spectral is significantly better than  GMM with p-value =$ 5.2389786353904556e-09  <<0.05$
+Spectral is significantly better than  Fuzzy C Means with p-value =$ 4.638530315065466e-09  <<0.05$
+Spectral is significantly better than  Hierarchicalward with p-value =$ 3.7137320261893873e-10  <<0.05$
+Spectral is significantly better than  Hierarchicalaverage with p-value =$ 0.9999999996944954  <<0.05$
+Spectral is significantly better than  Hierarchicalcomplete with p-value =$ 3.7137320261893873e-10  <<0.05$
+Spectral is significantly better than  Hierarchicalsingle with p-value =$ 3.7137320261893873e-10  <<0.05$
+Hierarchicalward is significantly better than  K means with p-value =$ 3.959436327474976e-09  <<0.05$
+Hierarchicalward is significantly better than  GMM with p-value =$ 0.9997601149816169  <<0.05$
+Hierarchicalward is significantly better than  Fuzzy C Means with p-value =$ 3.2703062074249834e-09  <<0.05$
+Hierarchicalward is significantly better than  Spectral with p-value =$ 0.9999999996944954  <<0.05$
+Hierarchicalward is significantly better than  Hierarchicalaverage with p-value =$ 0.9999999998082634  <<0.05$
+Hierarchicalward is significantly better than  Hierarchicalcomplete with p-value =$ 0.9999999998082634  <<0.05$
+Hierarchicalward is significantly better than  Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalaverage is significantly better than  K means with p-value =$ 3.959436327474976e-09  <<0.05$
+Hierarchicalaverage is significantly better than  GMM with p-value =$ 3.712086457939901e-09  <<0.05$
+Hierarchicalaverage is significantly better than  Fuzzy C Means with p-value =$ 3.2703062074249834e-09  <<0.05$
+Hierarchicalaverage is significantly better than  Spectral with p-value =$ 3.7137320261893873e-10  <<0.05$
+Hierarchicalaverage is significantly better than  Hierarchicalward with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalaverage is significantly better than  Hierarchicalcomplete with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalaverage is significantly better than  Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalcomplete is significantly better than  K means with p-value =$ 3.959436327474976e-09  <<0.05$
+Hierarchicalcomplete is significantly better than  GMM with p-value =$ 0.9997601149816169  <<0.05$
+Hierarchicalcomplete is significantly better than  Fuzzy C Means with p-value =$ 3.2703062074249834e-09  <<0.05$
+Hierarchicalcomplete is significantly better than  Spectral with p-value =$ 0.9999999996944954  <<0.05$
+Hierarchicalcomplete is significantly better than  Hierarchicalward with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalcomplete is significantly better than  Hierarchicalaverage with p-value =$ 0.9999999998082634  <<0.05$
+Hierarchicalcomplete is significantly better than  Hierarchicalsingle with p-value =$ 2.341341179371028e-10  <<0.05$
+Hierarchicalsingle is significantly better than  K means with p-value =$ 0.9999999966663978  <<0.05$
+Hierarchicalsingle is significantly better than  GMM with p-value =$ 0.9999999968766236  <<0.05$
+Hierarchicalsingle is significantly better than  Fuzzy C Means with p-value =$ 0.999999997251751  <<0.05$
+Hierarchicalsingle is significantly better than  Spectral with p-value =$ 0.9999999996944954  <<0.05$
+Hierarchicalsingle is significantly better than  Hierarchicalward with p-value =$ 0.9999999998082634  <<0.05$
+Hierarchicalsingle is significantly better than  Hierarchicalaverage with p-value =$ 0.9999999998082634  <<0.05$
+Hierarchicalsingle is significantly better than  Hierarchicalcomplete with p-value =$ 0.9999999998082634  <<0.05$
+Average NMI Scores:
+for K means the average NMI Score is  0.09407540074413334
+for GMM the average NMI Score is  0.1286518500941528
+for Fuzzy C Means the average NMI Score is  0.08829289388515926
+for Spectral the average NMI Score is  0.1432480620903403
+for Hierarchicalward the average NMI Score is  0.11290963811748216
+for Hierarchicalaverage the average NMI Score is  0.15782600077742487
+for Hierarchicalcomplete the average NMI Score is  0.13935738846665052
+for Hierarchicalsingle the average NMI Score is  0.0009306992201369195
